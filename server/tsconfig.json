@@ -1,0 +1,7 @@
+ {
+
+    //Instructs the TypeScript compiler how to compile .ts files.
+    "compilerOptions": {
+        "esModuleInterop": true
+    }
+ }
